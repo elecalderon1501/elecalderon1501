@@ -1,3 +1,5 @@
+![imagen](C:\Users\User\Pictures\Imagenes para trabajo)
+
 <h1 align="center">Hi 👋, I'm Eleonora.</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
