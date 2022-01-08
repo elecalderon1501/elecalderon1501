@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, Redux, NodeJS, Express, Python.**
 
-- 👨‍💻 All of my projects are available at [www.elecalderon.com](www.elecalderon.com)
+- 👨‍💻 All of my projects are available at [http://elecalderon.com/](www.elecalderon.com)
 
 - 📫 How to reach me **elecalderon.ec@gmail.com**
 
