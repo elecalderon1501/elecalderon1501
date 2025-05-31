@@ -11,10 +11,6 @@
 
 <p align="left"> <a href="https://twitter.com/ele_calde_" target="blank"><img src="https://img.shields.io/twitter/follow/ele_calde_?logo=twitter&style=for-the-badge" alt="ele_calde_" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, React, Redux, NodeJS, Express, Python.**
-
-- 👨‍💻 All of my projects are available at [http://elecalderon.com/](www.elecalderon.com)
-
 - 📫 How to reach me **elecalderon.ec@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
