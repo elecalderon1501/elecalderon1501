@@ -1,6 +1,6 @@
 <img src="C:\Users\User\Pictures\Imagenes para trabajo" />
 <h1 align="center">Hi 👋, I'm Eleonora.</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<h3 align="center">Salesforce Developer</h3>
 
 
 ![looney-tunes-coding](https://user-images.githubusercontent.com/79472303/149556375-90f0c57f-02a3-4eea-ad11-5cddd3f2a87d.gif)
@@ -11,7 +11,6 @@
 
 <p align="left"> <a href="https://twitter.com/ele_calde_" target="blank"><img src="https://img.shields.io/twitter/follow/ele_calde_?logo=twitter&style=for-the-badge" alt="ele_calde_" /></a> </p>
 
-- 📫 How to reach me **elecalderon.ec@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
